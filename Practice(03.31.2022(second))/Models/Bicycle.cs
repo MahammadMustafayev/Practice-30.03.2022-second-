@@ -9,14 +9,13 @@ namespace Practice_03._31._2022_second__.Models
     class Bicycle:Vehicle,IWheel
     {
         public string PedalKind { get; set; }
-        public override int DriveTime { get; set; }
-        public override int DrivePath { get; set; }
+        public override double DriveTime { get; set; }
+        public override double DrivePath { get; set; }
         public int WheelThickness { get; set; }
-
-        public override void AverageSpeed()
+        public Bicycle(string pedalKind,double driveTime,double drivePath,int wheelThickness) :base(driveTime,drivePath)
         {
-            /*Drivepath / DriveTime */
-
+            PedalKind = pedalKind;
+            WheelThickness = wheelThickness;
         }
 
         public override void ShowInfo()

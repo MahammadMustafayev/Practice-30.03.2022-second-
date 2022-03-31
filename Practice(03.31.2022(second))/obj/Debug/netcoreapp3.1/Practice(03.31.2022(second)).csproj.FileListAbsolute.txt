@@ -1,0 +1,13 @@
+C:\Users\admin\OneDrive\İş masası\Practice-30.03.2022-second-\Practice(03.31.2022(second))\bin\Debug\netcoreapp3.1\Practice(03.31.2022(second)).exe
+C:\Users\admin\OneDrive\İş masası\Practice-30.03.2022-second-\Practice(03.31.2022(second))\bin\Debug\netcoreapp3.1\Practice(03.31.2022(second)).deps.json
+C:\Users\admin\OneDrive\İş masası\Practice-30.03.2022-second-\Practice(03.31.2022(second))\bin\Debug\netcoreapp3.1\Practice(03.31.2022(second)).runtimeconfig.json
+C:\Users\admin\OneDrive\İş masası\Practice-30.03.2022-second-\Practice(03.31.2022(second))\bin\Debug\netcoreapp3.1\Practice(03.31.2022(second)).runtimeconfig.dev.json
+C:\Users\admin\OneDrive\İş masası\Practice-30.03.2022-second-\Practice(03.31.2022(second))\bin\Debug\netcoreapp3.1\Practice(03.31.2022(second)).dll
+C:\Users\admin\OneDrive\İş masası\Practice-30.03.2022-second-\Practice(03.31.2022(second))\bin\Debug\netcoreapp3.1\Practice(03.31.2022(second)).pdb
+C:\Users\admin\OneDrive\İş masası\Practice-30.03.2022-second-\Practice(03.31.2022(second))\obj\Debug\netcoreapp3.1\Practice(03.31.2022(second)).csprojAssemblyReference.cache
+C:\Users\admin\OneDrive\İş masası\Practice-30.03.2022-second-\Practice(03.31.2022(second))\obj\Debug\netcoreapp3.1\Practice(03.31.2022(second)).AssemblyInfoInputs.cache
+C:\Users\admin\OneDrive\İş masası\Practice-30.03.2022-second-\Practice(03.31.2022(second))\obj\Debug\netcoreapp3.1\Practice(03.31.2022(second)).AssemblyInfo.cs
+C:\Users\admin\OneDrive\İş masası\Practice-30.03.2022-second-\Practice(03.31.2022(second))\obj\Debug\netcoreapp3.1\Practice(03.31.2022(second)).csproj.CoreCompileInputs.cache
+C:\Users\admin\OneDrive\İş masası\Practice-30.03.2022-second-\Practice(03.31.2022(second))\obj\Debug\netcoreapp3.1\Practice(03.31.2022(second)).dll
+C:\Users\admin\OneDrive\İş masası\Practice-30.03.2022-second-\Practice(03.31.2022(second))\obj\Debug\netcoreapp3.1\Practice(03.31.2022(second)).pdb
+C:\Users\admin\OneDrive\İş masası\Practice-30.03.2022-second-\Practice(03.31.2022(second))\obj\Debug\netcoreapp3.1\Practice(03.31.2022(second)).genruntimeconfig.cache

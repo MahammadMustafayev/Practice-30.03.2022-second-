@@ -6,6 +6,6 @@ namespace Practice_03._31._2022_second__.Utilities
 {
     interface ITransmissionKind
     {
-        public bool TransmissionKind { get; set; }
+        public string TransmissionKind { get; set; }
     }
 }
