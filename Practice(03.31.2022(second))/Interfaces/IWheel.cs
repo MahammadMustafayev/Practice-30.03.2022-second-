@@ -6,6 +6,6 @@ namespace Practice_03._31._2022_second__.Utilities
 {
     interface IWheel
     {
-        public int WheelThickness { get; set; }
+        public double WheelThickness { get; set; }
     }
 }
